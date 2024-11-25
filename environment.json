@@ -1,0 +1,51 @@
+{
+	"id": "eaffc4d3-d736-423b-86ec-593e273c06e1",
+	"name": "Qacart",
+	"values": [
+		{
+			"key": "BaseUrl",
+			"value": "https://qacart-todo.herokuapp.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "firstName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "userID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "isCompleted",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "item",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "TaskID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "accessToken",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-11-25T20:58:17.721Z",
+	"_postman_exported_using": "Postman/11.20.0"
+}
