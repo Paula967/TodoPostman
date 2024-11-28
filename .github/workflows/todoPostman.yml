@@ -32,7 +32,7 @@ jobs:
       - name: Run Postman Collection
         shell: pwsh
         run: |
-          newman run ".\Collection.json" -e ".\Environment.json" -r htmlextra --reporter-htmlextra-export newman-report.html\report.html
+          newman run ".\collection.json" -e ".\environment.json" -r htmlextra --reporter-htmlextra-export newman-report.html\report.html
 
 
       # Upload HTML Report as artifact
